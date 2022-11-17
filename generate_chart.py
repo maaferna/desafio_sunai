@@ -13,3 +13,7 @@ def chart_graph(data, inversor_name, fname):
                 facecolor='auto', edgecolor='auto',
                 backend=None)
     plt.show()
+
+
+def graph_result(data):
+    print(data)

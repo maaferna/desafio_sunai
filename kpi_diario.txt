@@ -1,60 +1,10 @@
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
-file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
-data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
-data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
-data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
-data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Sum
+data_plantas_python_1_1.xlsx 4799 76893104 76978296 76928132.4 15231770216
+data_plantas_python_1_1.xlsx 4804 65715304 65802100 65749698.33 14793682124
+data_plantas_python_1_1.xlsx 4801 75206504 75294296 75244815.05 15801411160
+data_plantas_python_1_1.xlsx 4803 59063500 59130600 59092740.17 14300443120
+data_plantas_python_1_1.xlsx 4802 47407500 47463700 47430933.19 9533617572
+data_plantas_python_1_1.xlsx 4800 73118104 73202504 73154760.82 15069880728
+data_plantas_python_1_1.xlsx 4798 46870800 46870800 46870800.0 5858850000
+data_plantas_python_2.xlsx 184 100358904 100456504 100401562.75 28915650072
+data_plantas_python_2.xlsx 183 112809400 112923304 112859026.28 32503399568
