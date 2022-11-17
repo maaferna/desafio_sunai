@@ -1,0 +1,60 @@
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
+file_name id_i Minimum Maximum Mean Instance Convergence Exchange_rate
+data_plantas_python_1_1.xlsx 4799 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4804 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4801 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4803 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4802 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4800 46870800 76978296 64384971.51   
+data_plantas_python_1_1.xlsx 4798 46870800 76978296 64384971.51   
+data_plantas_python_2.xlsx 184 100358904 112923304 106630294.51   
+data_plantas_python_2.xlsx 183 100358904 112923304 106630294.51   
