@@ -16,4 +16,25 @@ def chart_graph(data, inversor_name, fname):
 
 
 def graph_result(data):
-    print(data)
+    size = len(data)
+    colormap = ["#fffac8", "#ffd8b1", "#fabed4", "#a9a9a9", "#911eb4",
+                "#4363d8", "#42d4f4", "#469990", "#f58231", "#800000"]
+    legend_list = []
+    for l in range(0, size):
+        legend_list.append(data.iloc[l, 0] + "/" + str(data.iloc[l, 1]))
+
+    print(legend_list)
+
+    fig, axs = plt.subplots(2, 1, figsize=(15, 10), sharey=False, sharex=True)
+
+    title_list = ['Active Energy (min/max/average)', 'Active Energy Total']
+
+    axs[0].title.set_text(title_list[0])
+    axs[0].plot(data['id_i'].map(str), data['Minimum'], color='red', label='Min')
+    axs[0].plot(data['id_i'].map(str), data['Mean'], color='blue', label='Average')
+    axs[0].plot(data['id_i'].map(str), data['Maximum'], color='green', label='Max')
+    axs[1].title.set_text(title_list[1])
+    axs[1].plot(data['id_i'].map(str), data['Sum'], color='green')
+
+    axs[0].legend( )
+    plt.show()
